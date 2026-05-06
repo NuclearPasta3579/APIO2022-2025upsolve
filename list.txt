@@ -1,5 +1,5 @@
 APIO2022:
-Mars
+Mars(AC)
 Game(AC)
 Permutation(AC)
 
